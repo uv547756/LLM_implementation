@@ -1,0 +1,6 @@
+[BOS] : Beginning of sequence
+[EOS] : End of sequence
+[PAD] : Padding (match lengths of short sequences to long sequences)
+[UNK] : For unknown tokens
+<|endoftext|> : End of text, like [EOS]
+
